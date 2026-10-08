@@ -1,6 +1,6 @@
 # Piper 项目运行指南
 
-[![Built with ChatGPT](https://vibecoded.fyi/badges/flat/llms/chatgpt.svg)](https://vibecoded.fyi/)
+[![Coded with Codex](https://vibecoded.fyi/badges/flat/agents/codex.svg)](https://vibecoded.fyi/)
 
 ## 0. 环境与运行入口
 
