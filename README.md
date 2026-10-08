@@ -1,5 +1,7 @@
 # Piper 项目运行指南
 
+[![Built with ChatGPT](https://vibecoded.fyi/badges/flat/llms/chatgpt.svg)](https://vibecoded.fyi/)
+
 ## 0. 环境与运行入口
 
 | 入口 | 用途 | 输入 | 主要输出 |
